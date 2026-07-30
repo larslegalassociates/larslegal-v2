@@ -1,0 +1,2 @@
+export const metadata={title:'Terms of Use'};
+export default function Page(){return <main><section className="pageHero"><div className="container"><div className="eyebrow">Website Terms</div><h1>Terms of Use</h1><p>Terms governing use of this website.</p></div></section><section className="section white"><div className="container"><p>Website content is provided for general information only. Nothing on this site constitutes legal advice or creates a lawyer–client relationship.</p></div></section></main>}
